@@ -4,7 +4,7 @@ Generate short music clips guided by **mood** or **text prompts** (e.g., *happy*
 Includes basic **NLP mood parsing**, **audio feature analysis** (tempo & spectral features), and **post-processing** (fades, trimming) for cleaner output.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/USERNAME/REPO/blob/main/Coconut_project_Final.ipynb)
+https://github.com/sepehrmoghiseh/Coconut-project/blob/master/Coconut_project_Final.ipynb)
 
 ---
 
