@@ -18,3 +18,23 @@ https://colab.research.google.com/github/USERNAME/REPO/blob/main/Coconut_project
 ---
 
 ## 📂 Repo Structure
+
+---
+
+## 🧰 Requirements
+> Colab already has most deps; the notebook installs the rest automatically.
+
+- Python 3.9+
+- GPU recommended (T4 or better on Colab)
+- Libraries:
+  - `audiocraft` (MusicGen)
+  - `torch`, `torchaudio`
+  - `pydub`
+  - `pretty_midi`
+  - `textblob`
+  - `numpy`
+
+Install locally (optional):
+```bash
+pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu121
+pip install "audiocraft>=1.0.0" pydub pretty_midi textblob numpy
